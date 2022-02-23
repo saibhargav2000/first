@@ -1,3 +1,6 @@
 this is new content
+<<<<<<< HEAD
 new one append
 new content on demo1 branch demo1
+=======
+>>>>>>> parent of 51b9090... ac
